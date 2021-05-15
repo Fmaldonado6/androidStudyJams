@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculadora Propinas</string>
+    <string name="cantidad_propina">Cantidad de propina: %s</string>
+    <string name="calcular">Calcular</string>
+    <string name="redondear">Redondear?</string>
+    <string name="opcion_ok">Ok (15%)</string>
+    <string name="opcion_bien">Bien (18%)</string>
+    <string name="opcion_excelente">Excelente (20%)</string>
+    <string name="label_text">Como estuvo la comida?</string>
+    <string name="total_text">Total</string>
+</resources>

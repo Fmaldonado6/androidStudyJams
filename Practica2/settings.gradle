@@ -1,0 +1,2 @@
+rootProject.name = "Calculadora Propinas"
+include ':app'
