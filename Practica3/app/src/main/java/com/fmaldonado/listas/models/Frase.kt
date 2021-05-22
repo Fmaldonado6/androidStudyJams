@@ -1,5 +1,9 @@
 package com.fmaldonado.listas.models
 
+import androidx.annotation.DrawableRes
+import androidx.annotation.StringRes
+
 data class Frase(
-    val fraseId: Int
+    @StringRes  val fraseId: Int,
+    @DrawableRes val imagenId: Int
 )

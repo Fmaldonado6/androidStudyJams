@@ -18,6 +18,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         val datos = DataSource().obtenerFrases()
-        binding.lista.adapter = FraseAdapter(datos, this)
+        binding.lista.adapter = FraseAdapter(datos,this)
     }
 }
