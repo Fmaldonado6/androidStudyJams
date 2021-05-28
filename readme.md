@@ -16,7 +16,7 @@ Bienvenidos al repositorio del taller de Android, aquí podrán encontrar todos 
 
 - [Práctica 2 (Calculadora de propinas)](https://github.com/Fmaldonado6/androidStudyJams/tree/master/Practica2)
 
-- [Práctica 3 (Recycler View y navegación)](https://github.com/Fmaldonado6/androidStudyJams/tree/master/Practica3)
+- [Práctica Final (Conexión de internet)](https://github.com/Fmaldonado6/androidStudyJams/tree/master/PracticaFinal)
 
 ## Contacto
 
